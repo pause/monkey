@@ -19,7 +19,7 @@
 
 __MONKEY__="1"
 __MONKEY_MINOR__="5"
-__MONKEY_PATCHLEVEL__="0"
+__MONKEY_PATCHLEVEL__="1"
 __MONKEY_GIT__="release"
 
 VERSION="1.5.0"
